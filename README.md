@@ -1,0 +1,2 @@
+# flutter_shop_project
+一款flutter实现的电商项目
